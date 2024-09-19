@@ -17,7 +17,6 @@ function App() {
     <>
       <Provider store={store}>
         <Navbar></Navbar>
-        <CountBtn></CountBtn>
         <DataProvider>
           <Routes>
             <Route path="/" element={<Home />}></Route>
