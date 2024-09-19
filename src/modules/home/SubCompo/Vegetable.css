@@ -1,0 +1,32 @@
+.vegmain-container {
+  margin-top: 12rem;
+  height: 50rem;
+  background-color: #ececec;
+}
+/* .vegis {
+  display: flex;
+  justify-content: space-evenly;
+} */
+
+.vegetable-container {
+  display: flex;
+  padding-top: 8rem;
+  margin: 5%;
+  justify-content: space-around;
+}
+
+.vegis-img {
+  border-radius: 20px;
+  /* text-align: center; */
+  background-image: url(/src/assets/1.jpeg);
+  /* width: 450px; */
+  height: 370px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.veg-item {
+  padding-top: 10px;
+  width: 70%;
+  padding-left: 1rem;
+}

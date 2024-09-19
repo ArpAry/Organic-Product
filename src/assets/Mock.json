@@ -1,0 +1,87 @@
+{
+  "Items": [
+    {
+      "catagorie": "grocerie",
+      "name": "Edible Oil",
+      "id": "1",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil.jpg"
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Assorted Coffee",
+      "id": "2",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg"
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Sanitizer",
+      "id": "3",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer.jpg"
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Orange Juice",
+      "id": "4",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz.jpg "
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Red Chillies",
+      "id": "5",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/red-chillies.jpg"
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Diabetic COokies",
+      "id": "6",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/diabetic-cookies.jpg "
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Eggs",
+      "id": "7",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/eggs.jpg"
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Cashew Butter",
+      "id": "8",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/cashew-butter-500.jpg"
+    },
+    {
+      "catagorie": "grocerie",
+      "name": "Honey",
+      "id": "9",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/organic-honey.jpg"
+    }
+  ],
+  "Filterdata": [
+    {
+      "name": "Edible Oil",
+      "id": "1",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil.jpg"
+    },
+    {
+      "name": "Assorted Coffee",
+      "id": "2",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg"
+    },
+    {
+      "name": "Sanitizer",
+      "id": "3",
+      "price": "£35.00",
+      "image": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer.jpg"
+    }
+  ]
+}

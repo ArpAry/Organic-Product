@@ -1,0 +1,18 @@
+.bestsellingproduct {
+}
+
+.grocerie-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+.grocery-image {
+  height: 300px;
+  width: 300px;
+}
+.grocery {
+}
+
+.grocery-item {
+  /* align-items: center; */
+  text-align: center;
+}

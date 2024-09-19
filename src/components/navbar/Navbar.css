@@ -1,0 +1,29 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+.left-container {
+  display: flex;
+  margin-top: 2rem;
+  margin-left: 0.5rem;
+  /* background-color: aqua; */
+}
+.right-container {
+  display: flex;
+  margin: 2rem;
+  /* background-color: blue; */
+}
+.i1 {
+  margin-left: 0px;
+  height: 4rem;
+  width: 13rem;
+}
+.nav-li {
+  list-style: none;
+  margin: 0.5rem;
+  text-decoration: none;
+}
+
+.nav-li:hover {
+  color: rgb(110, 248, 110);
+}

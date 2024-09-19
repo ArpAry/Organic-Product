@@ -1,0 +1,9 @@
+.about-mid {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: black;
+  color: white;
+  height: 10rem;
+}

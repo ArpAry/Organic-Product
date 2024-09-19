@@ -1,0 +1,70 @@
+.bestsellingproduct {
+}
+
+.grocerie-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+.grocery-image {
+  height: 300px;
+  width: 300px;
+}
+.grocery {
+}
+
+.grocery-item {
+  /* align-items: center; */
+  text-align: center;
+}
+.review {
+  margin-bottom: 10rem;
+}
+.review-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.mila-kunis {
+  height: 358px;
+  width: 30%;
+  border: 2px SOLID BLACK;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  text-align: center;
+  border-radius: 5px;
+}
+
+.deal {
+  height: 400px;
+  width: 30%;
+  border: 2px SOLID BLACK;
+  transform: translateY(-80px);
+  border-radius: 5px;
+  /* padding: 5rem; */
+  padding-top: 2rem;
+  background-image: url("https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/sydney-rae-668606-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  /* opacity: 50%; */
+}
+.deal-day {
+  display: flex;
+  justify-content: center;
+}
+.mike-sendler {
+  height: 358px;
+  width: 30%;
+  border: 2px SOLID BLACK;
+  display: flex;
+  border-radius: 5px;
+  align-items: center;
+  /* justify-content: center; */
+  text-align: center;
+}
+.btn {
+  height: 200px;
+}

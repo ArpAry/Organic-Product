@@ -1,0 +1,39 @@
+.shop-left {
+  margin-left: 8rem;
+  margin-top: 3rem;
+  /* width: 30%; */
+  /* background-color: black; */
+}
+.input-div {
+  width: 200px;
+}
+.input-field {
+  width: 130px;
+  border: 1px solid rgba(0, 0, 0, 0.205);
+  height: 35px;
+}
+.input-btn {
+  height: 25px;
+  background-color: #6a9739;
+  border: none;
+  border-radius: 2px;
+  margin-left: 4px;
+}
+.slider-value {
+  width: 25px;
+  height: 25px;
+  margin: 7px;
+}
+.tot-items {
+  font-size: 13px;
+}
+.item-images {
+  height: 13rem;
+  /* margin-bottom: ; */
+}
+.data-container {
+  margin-top: 2rem;
+}
+.item-text {
+  /* margin: 1rem; */
+}

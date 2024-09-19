@@ -1,0 +1,73 @@
+.main-container {
+}
+.about-container {
+  display: flex;
+  justify-content: center;
+  background-color: #f5f5f5;
+  padding-bottom: 8rem;
+}
+.img-container {
+  margin-top: 8rem;
+  background-image: url("../../assets/bg.png");
+  background-size: cover;
+  width: 45%; /* Full width */
+  height: 500px;
+}
+.text-container {
+  margin-top: 13rem;
+  margin-left: 5rem;
+  width: 38%;
+}
+
+.leaf1 {
+  height: 2rem;
+  margin-bottom: 2rem;
+}
+
+.icon-button {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #6a9739;
+  border: #6a9739;
+  color: #fff;
+  height: 2.8rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 11rem;
+  transition: background-color 0.3s ease;
+}
+
+.icon-button:hover {
+  background-color: #6a9739;
+}
+
+.icon-button svg {
+  margin-right: 8px; /* Adds space between the icon and text */
+}
+.features {
+  display: flex;
+  justify-content: space-evenly;
+  height: 15rem;
+  background-color: black;
+  margin-bottom: 8rem;
+}
+
+.feature-item {
+  position: relative;
+  /* top: 3rem; */
+  width: 17rem;
+  height: 7rem;
+  margin-top: 5rem;
+  background-color: #333333;
+  color: #fff;
+}
+
+.item {
+  padding: 25px;
+  text-align: center; /* Centers text inside the div */
+}
